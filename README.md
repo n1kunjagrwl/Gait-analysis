@@ -1,11 +1,15 @@
-# Gait-analysis
-GAIT ANALYSIS FOR PARKINSON’S SEVERITY CLASSIFICATION
+# Gait Analysis for Parkinson’s Severity Classification
 
-This project is now under consideration for publication, once the paper is accepted I will add the files in this repository.
+---
 
-Abstract:
+📢 ***This project is currently under review for publication. Relevant files, code, and models will be added upon acceptance.***
 
-Parkinson’s Disease (PD) is a progressively advancing neurological condition, with its severity often evaluated through clinical assessment utilizing the Hoehn and Yahr (H&Y) staging scale.
+---
+
+## 🧠 Abstract
+
+Parkinson’s Disease (PD) is a progressively advancing neurological condition, with its severity
+often evaluated through clinical assessment utilizing the Hoehn and Yahr (H&Y) staging scale.
 Such assessments are highly dependent on the clinician’s skill, making the process subjective
 and sometimes inconsistent. To address this shortcoming, this article introduces a machine
 learning-based gait classification system that can help doctors properly identify the stages of
@@ -21,3 +25,18 @@ H&Y scale, outperforming other state-of-the-art methods. Future work can focus o
 gait datasets, integrating additional features and wearable sensors, and developing real-time
 monitoring systems. Deep learning and explainable AI could enhance accuracy and clinical
 adoption.
+
+---
+
+## 📊 Results
+
+| Metric     | Value (%) |
+|------------|-----------|
+| Accuracy   | 98.25     |
+| Precision  | 98.35     |
+| Recall     | 98.25     |
+| F1 Score   | 98.00     |
+
+---
+
+📌 *More details will be added upon accpetance/publication.*
